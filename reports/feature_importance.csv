@@ -1,0 +1,7 @@
+Feature,Importance
+age,0.31
+bmi,0.22
+smoker_yes,0.28
+children,0.05
+risk_score,0.08
+family_risk,0.06

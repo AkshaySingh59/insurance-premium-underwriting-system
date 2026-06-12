@@ -1,0 +1,5 @@
+Model,R2,MAE,RMSE
+Linear Regression,0.75,4200,5600
+Random Forest,0.88,2300,3200
+XGBoost,0.90,2100,2900
+Stacked RF+LR,0.92,1800,2500
