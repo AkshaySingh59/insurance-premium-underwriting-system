@@ -601,12 +601,14 @@ st.markdown("---")
 
 st.markdown("""
 <center>
+<p><b>Developed By</b></p>
 
-Developed by Akshay Singh
+<p>Akshay Singh - B.Tech CSE</p>
+<p>Abhishek Kumar Yadav - B.Tech CSE</p>
+<p>Siddharth Singh - B.Tech AIML</p>
+<p>Hritik Kumar - B.Tech DS</p>
+<p>Shubham Pandey - B.Tech CS</p>
 
-B.Tech CSE
-
-General Insurance Premium Underwriting System
-
+<p><b>General Insurance Premium Underwriting System</b></p>
 </center>
 """, unsafe_allow_html=True)
